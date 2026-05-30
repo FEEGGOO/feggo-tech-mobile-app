@@ -29,7 +29,7 @@ Online Shopping Application (IT Accessories)
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 Tech enthusiasts and professionals in Africa struggle 
 to find quality IT accessories in one place. Physical 
 stores have limited stock, inconsistent pricing, and 
@@ -54,11 +54,11 @@ fast delivery and honest pricing.
 
 ---
 
-## 👤 User Persona
-| Field | Details |
-|-------|---------|
-| **Name** | David Mugisha |
-| **Age** | 24 |
+## User Personal
+| Field |            Details |
+|-------|           ---------|
+| **Name**|     David Mugisha |
+| **Age**        | 24 |
 | **Occupation** | University Student & Freelance Designer |
 | **Location** | Kigali, Rwanda |
 | **Goals** | Find affordable quality tech accessories quickly, compare products before buying, track orders easily |
@@ -66,4 +66,4 @@ fast delivery and honest pricing.
 
 ---
 
-## 🔄 User Flow
+## User Flow
