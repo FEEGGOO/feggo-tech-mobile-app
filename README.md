@@ -1,17 +1,17 @@
-# 📱 FEGGO.TECH Mobile App
+#  FEGGO.TECH Mobile App
 ### UI/UX Design Using Figma
 
 ---
 
-## 👥 Group Members
+##  Group Members
 | Name | Registration Number |
 |------|-------------------|
-| Jean Claude Nsengiyumva | 28524/2025 |
+|  Nsengiyumva Jean Claude | 28524/2025 |
 | Mike Mucyo | 23082/2023 |
 
 ---
 
-## 📚 Course Information
+## Course Information
 - **Course:** E-Commerce and Web Application
 - **Code:** EWA408510
 - **Lecturer:** Eric Maniraguha
@@ -19,12 +19,12 @@
 
 ---
 
-## 📌 Project Title
+##  Project Title
 FEGGO.TECH — Online Shopping Application (IT Accessories)
 
 ---
 
-## 🎯 Selected Application
+##  Selected Application
 Online Shopping Application (IT Accessories)
 
 ---
