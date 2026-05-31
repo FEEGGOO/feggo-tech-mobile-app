@@ -74,7 +74,11 @@ fast delivery and honest pricing.
 ## 🖼️ Screenshots
 
 ### Wireframes
-![Wireframes](wireframes/wireframes.png)
+### Wireframes
+![Home Wireframe](wireframes/home.png)
+![Products Wireframe](wireframes/products.png)
+![Product Details Wireframe](wireframes/products%20Details.png)
+![Card Wireframe](wireframes/Card.png)
 
 ### High-Fidelity Designs
 ![home](high-fidelity-designs/home.png)
