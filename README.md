@@ -113,7 +113,7 @@ fast delivery and honest pricing.
 
 ---
 
-## 💪 Challenges Faced
+## Challenges Faced
 - Designing a consistent dark theme across all screens
 - Creating an intuitive mobile navigation structure
 - Balancing visual appeal with accessibility requirements
@@ -121,7 +121,7 @@ fast delivery and honest pricing.
 
 ---
 
-## 🎓 Conclusion
+## Conclusion
 FEGGO.TECH mobile app demonstrates how modern UI/UX 
 principles can create an engaging and accessible 
 shopping experience for tech accessories. The design 
