@@ -77,7 +77,7 @@ fast delivery and honest pricing.
 ![Wireframes](wireframes/wireframes.png)
 
 ### High-Fidelity Designs
-![Homepage](high-fidelity-designs/Homepage.png)
+![Home](high-fidelity-designs/Home.png)
 ![Home](high-fidelity-designs/home.png)
 ![Categories](high-fidelity-designs/Categories.png)
 ![Products](high-fidelity-designs/products.png)
