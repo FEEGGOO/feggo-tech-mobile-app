@@ -1,4 +1,6 @@
 #  FEGGO.TECH Mobile App
+
+
 ### UI/UX Design Using Figma
 
 ---
@@ -8,6 +10,7 @@
 |------|-------------------|
 |  Nsengiyumva Jean Claude | 28524/2025 |
 | Mike Mucyo | 23082/2023 |
+
 
 ---
 
@@ -66,4 +69,64 @@ fast delivery and honest pricing.
 
 ---
 
-## User Flow
+---
+
+## 🖼️ Screenshots
+
+### Wireframes
+![Wireframes](wireframes/wireframes.png)
+
+### High-Fidelity Designs
+![Homepage](high-fidelity-designs/Homepage.png)
+![Home](high-fidelity-designs/home.png)
+![Categories](high-fidelity-designs/Categories.png)
+![Products](high-fidelity-designs/products.png)
+![Contact Us](high-fidelity-designs/Contact%20Us.png)
+![Support](high-fidelity-designs/Support.png)
+
+### Prototype
+![Prototype](prototype/prototype-preview.png)
+
+---
+
+##  Accessibility Considerations
+- High contrast text (white on dark background)
+- Large readable font sizes (minimum 14px)
+- Clear navigation with bottom tab bar
+- Color-blind friendly cyan accent color
+- Touch targets minimum 44x44px
+- Descriptive button labels
+
+---
+
+## ✅ Features Implemented
+- ✅ Homepage with hero banner and shop now button
+- ✅ Categories page with all product categories
+- ✅ Products page with grid layout and prices in RWF
+- ✅ Contact Us page with form and location
+- ✅ Support page with FAQ
+- ✅ Mobile responsive design
+- ✅ Dark mode UI with cyan accents
+- ✅ Interactive prototype with clickable screens
+
+---
+
+## 💪 Challenges Faced
+- Designing a consistent dark theme across all screens
+- Creating an intuitive mobile navigation structure
+- Balancing visual appeal with accessibility requirements
+- Collaborating on Figma in real time
+
+---
+
+## 🎓 Conclusion
+FEGGO.TECH mobile app demonstrates how modern UI/UX 
+principles can create an engaging and accessible 
+shopping experience for tech accessories. The design 
+focuses on simplicity, speed and visual appeal to 
+serve the growing African tech market.
+
+---
+
+## 🔗 GitHub Repository
+[https://github.com/FEEGGOO/feggo-tech-mobile-app](https://github.com/FEEGGOO/feggo-tech-mobile-app)
