@@ -74,7 +74,6 @@ fast delivery and honest pricing.
 ## 🖼️ Screenshots
 
 ### Wireframes
-### Wireframes
 ![Home Wireframe](wireframes/home.png)
 ![Products Wireframe](wireframes/products.png)
 ![Product Details Wireframe](wireframes/products%20Details.png)
